@@ -9,12 +9,19 @@
 
 ## 奈云机场优惠套餐
 
+| 奈云机场       | 付款周期 | 价格     | 每月流量   | 同时在线数量 |
+|------------|------|--------|--------|--------|
+| Bacic-基础套餐 | 按年付  | 128.00 | 168 GB | 5      |
+| Pro-进阶套餐   | 按月付  | 28.00  | 388 GB | 5      |
+| Max-专业套餐   | 按月付  | 49.00  | 788 GB | 5      |
 
 ## 奈云机场机场测速
 
+![v2ny-SpeedTest-SZDX](https://github.com/jichangzhu/Naiyun/assets/152512496/680afdc8-16b2-4dd4-a2d7-243a647cd2ab)
 
 ## 奈云机场出入口分析
 
+![v2ny-Network-Topology-SZDX](https://github.com/jichangzhu/Naiyun/assets/152512496/4bccedd8-48b7-469d-86f8-3263f86abd89)
 
 ## 奈云机场跑路
 目前奈云机场没有跑路，可以放心使用。
